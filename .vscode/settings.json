@@ -1,0 +1,18 @@
+{
+    "background.windowBackgrounds": [
+        "c:/Users/SHUBHAM SHINDE/Downloads/ChatGPT Image May 17, 2025, 10_47_09 PM.png",
+        "c:/Users/SHUBHAM SHINDE/OneDrive/Pictures/vs_back/**"
+    ],
+    "background.backgroundOpacity": [
+        0.8,
+        0.9,
+        0.9,
+        0.9
+    ],
+    "background.backgroundChangeTime": [
+        300,
+        0,
+        0,
+        0
+    ]
+}
